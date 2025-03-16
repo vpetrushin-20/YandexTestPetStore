@@ -34,7 +34,7 @@
 
 3.Отправить запрос DELETE https://petstore.swagger.io/v2/pet/(id) (ожидаемый статус 200)
 
-4.Осущетвить проверку отправкой сервису запрос GET https://petstore.swagger.io/v2/pet/(id) (ожидаемый статус 404)
+4.Осущетвить проверку отправкой сервису запрос GET https://petstore.swagger.io/v2/pet/(id) (ожидаемый статус 200)
 
 5.Проверить текст ошибки
 <h3 align="center">Сценарий 6 </h3>
